@@ -9,3 +9,10 @@ The solutions are coded in C++.<br/>
   - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Bytelandian%20gold%20coins.cpp)
 * [ACODE - Alphacode](https://www.spoj.com/problems/ACODE/)
   - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Alphacode.cpp)
+
+## Day 1
+* [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+  - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Unique%20Binary%20Search%20Trees.cpp)
+* [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)<br/>
+  - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Unique%20Binary%20Search%20Trees%20II.cpp)
+ 
