@@ -16,3 +16,6 @@ The solutions are coded in C++.<br/>
 * [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)<br/>
   - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Unique%20Binary%20Search%20Trees%20II.cpp)
  
+## Day 2
+* [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+  - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Generate%20Parentheses.cpp)
