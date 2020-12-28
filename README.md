@@ -19,3 +19,7 @@ The solutions are coded in C++.<br/>
 ## Day 2
 * [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
   - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Generate%20Parentheses.cpp)
+
+## Day 3
+* [Intelligent Girl](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/intelligent-girl-1/submissions/)
+  - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Intelligent%20Girl.cpp)
