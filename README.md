@@ -10,5 +10,7 @@ The solutions are coded in C++.<br/>
 * [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Unique%20Binary%20Search%20Trees%20II.cpp)
 * [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Generate%20Parentheses.cpp)
 * [Intelligent Girl](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/intelligent-girl-1/submissions/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Intelligent%20Girl.cpp)
-## 30.1
+## 1.1
 * [Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Unique%20Paths.cpp)
+## 2.1 
+* [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Unique%20Paths%20II.cpp)
