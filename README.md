@@ -13,3 +13,4 @@ The solutions are coded in C++.<br/>
 * [Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Unique%20Paths.cpp)
 * [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) - [Solution](https://github.com/snigdha920/Interview-Prep/blob/main/Unique%20Paths%20II.cpp)
 * [Coin Change 2](https://leetcode.com/problems/coin-change-2/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Coin%20Change%202.cpp)
+* [Permutations II](https://leetcode.com/problems/permutations-ii/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Permutations%20II.cpp)
