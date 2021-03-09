@@ -17,3 +17,4 @@ The solutions are coded in C++.<br/>
 * [Jump Game](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Jump%20Game.cpp)
 * [Longest Increasing Subsequence](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/810/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Longest%20Increasing%20Subsequence.cpp)
 * [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Minimum%20Path%20Sum.cpp)
+* [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - [Solution](https://github.com/snigdha920/Dynamic-Programming/blob/main/Maximum%20Product%20Subarray.cpp)
